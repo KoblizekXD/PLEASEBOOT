@@ -1,0 +1,18 @@
+[
+  {
+    "arguments": [
+      "/home/koblizkac/opt/cross/bin/i686-elf-gcc",
+      "-ffreestanding",
+      "-O2",
+      "-I",
+      "include",
+      "-c",
+      "-o",
+      "build/src/init/mbinit.o",
+      "src/init/mbinit.c"
+    ],
+    "directory": "/home/koblizkac/Coding/C/pleaseboot",
+    "file": "/home/koblizkac/Coding/C/pleaseboot/src/init/mbinit.c",
+    "output": "/home/koblizkac/Coding/C/pleaseboot/build/src/init/mbinit.o"
+  }
+]
